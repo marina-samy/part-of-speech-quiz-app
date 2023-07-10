@@ -1,0 +1,14 @@
+.btn{
+    background: none;
+    border :none;
+    padding : 5px 0;
+    border-bottom: 1px solid white;
+    width: 100%;
+    cursor: pointer;
+}
+
+
+.btn:hover,
+.btn:focus{
+background: #74ce74;
+}
